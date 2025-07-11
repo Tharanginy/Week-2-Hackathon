@@ -33,7 +33,7 @@ Clone from Git repository or copy file.
 ### Screenshots/Images
 Terminal Output:
 ![Output for Yes and No](./assets/capture1.PNG)
-![Output for Yes and No](./assets/capture2.PNG)
+![Output for Yes and No](./assets/Capture2.PNG)
 ### Wins & Challenges (Code snippets)
 Wins: We included if else and else if statements to set conditions for the dice output and input.
 ![if else /else if statements](./assets/Capture3.PNG)
