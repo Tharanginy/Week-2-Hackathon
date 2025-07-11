@@ -1,0 +1,11 @@
+.container {
+    background-color: aquamarine;
+}
+
+.container2 {
+    background-color: aqua;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+

@@ -1,0 +1,23 @@
+{
+  "name": "week-2-hackathon",
+  "version": "1.0.0",
+  "description": "# Roll a Dice Generator",
+  "main": "game.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tharanginy/Week-2-Hackathon.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tharanginy/Week-2-Hackathon/issues"
+  },
+  "homepage": "https://github.com/Tharanginy/Week-2-Hackathon#readme",
+  "devDependencies": {
+    "jest": "^30.0.4"
+  }
+}
